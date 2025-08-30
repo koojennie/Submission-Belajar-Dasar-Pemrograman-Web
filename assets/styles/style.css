@@ -32,6 +32,10 @@ p {
     text-align: justify;
 }
 
+p.center {
+    text-align: center;
+}
+
 h3.heading-table {
     color: white;
     margin-bottom: 10px;
