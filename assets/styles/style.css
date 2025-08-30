@@ -28,6 +28,10 @@ h2, h3 {
     color: #2A1458;
 }
 
+p {
+    text-align: justify;
+}
+
 h3.heading-table {
     color: white;
     margin-bottom: 10px;
